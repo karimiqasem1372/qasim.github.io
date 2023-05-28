@@ -211,3 +211,6 @@ footer a:not(.nav-link) {
 .bd-mode-toggle {
   z-index: 1500;
 }
+.text-justify{
+  text-align: justify !important;
+}
