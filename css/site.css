@@ -3,5 +3,11 @@
   font-size: 12px;
 }
 .certificate-title{
-  margin-top: 15px;;
+  margin-top: 15px;
+}
+.certificat div{
+  margin-bottom: 50px;;
+}
+.certificat a{
+  text-transform: uppercase;
 }
