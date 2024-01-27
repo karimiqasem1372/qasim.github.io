@@ -11,3 +11,6 @@
 .certificat a{
   text-transform: uppercase;
 }
+.float-right{
+  float: right;
+}
